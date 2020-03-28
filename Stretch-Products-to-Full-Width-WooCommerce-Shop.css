@@ -1,0 +1,13 @@
+/**
+ * @snippet       Stretch Products to Full Width @ WooCommerce Shop
+ * @author        Khalid Alamallahi
+ * @testedwith    WooCommerce 3.9
+ */
+ 
+ul.products li.product .woocommerce-loop-product__link {
+    margin: 0 auto;
+}
+ 
+ul.products li.product .button {
+    margin: 0 auto;
+}
